@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
