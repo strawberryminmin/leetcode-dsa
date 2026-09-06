@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
