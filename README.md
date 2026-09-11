@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
@@ -46,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
