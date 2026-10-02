@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
