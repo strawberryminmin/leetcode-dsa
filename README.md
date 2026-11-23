@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3483-unique-3-digit-even-numbers](https://github.com/strawberryminmin/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0319-bulb-switcher) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/strawberryminmin/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
